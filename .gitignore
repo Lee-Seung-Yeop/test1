@@ -1,1 +1,5 @@
 hidden.txt
+*.bak
+dir1
+dir*
+!dir1/file
